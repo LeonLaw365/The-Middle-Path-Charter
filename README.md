@@ -169,3 +169,16 @@ Layer 7 — Terminal Conclusion
 The Middle Path Charter is not a compromise, but:
 The only non-collapsing structural form remaining
 after all unstable paths are eliminated.
+
+---
+
+## License and AI Assistance
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+© 2026 qiliang luo
+
+This work was developed with the assistance of artificial intelligence tools.
+AI systems were used for analysis, drafting support, and iterative refinement.
+All conceptual design, critical judgment, final decisions, and responsibility
+for the content remain with the author.
