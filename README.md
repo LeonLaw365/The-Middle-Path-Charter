@@ -103,6 +103,7 @@ It defines only the boundary that must not be crossed.
 ## Part II | Mind Map 
 This is a structural thinking map, not an argument.
 Each layer exists only because all unstable alternatives have been removed.
+
 Layer 1 — Binary Analysis (Factual Layer)
 Question: Did the event actually occur?
 Yes / No
@@ -113,6 +114,7 @@ Moral judgment
 Identity or positional assumptions
 Result:
 Reality is reduced to a set of verifiable facts.
+
 Layer 2 — Outcome Orientation (Behavior Layer)
 Question: Did the action produce observable results?
 Result / No result
@@ -122,6 +124,7 @@ Good intentions without effect
 Correct motives with failed outcomes
 Result:
 The value of an action is determined solely by its consequences.
+
 Layer 3 — Economic Verification (Cost Layer)
 Question: Was a real cost paid?
 Resource consumption
@@ -133,6 +136,7 @@ Externalized costs
 Deferred responsibility
 Result:
 Actions without cost lack real-world constraints.
+
 Layer 4 — Professional Marketism (Production Layer)
 Conclusion:
 Only professional capabilities that can be sustainably paid for by the market
@@ -141,12 +145,14 @@ Risks Introduced:
 Guild formation
 Information asymmetry
 New interpretive power
+
 Layer 5 — Governance Fault Line
 Contradictions:
 Market efficiency ≠ Power limitation
 Professional success ≠ Governance legitimacy
 Systemic Risk:
 Professional–technological oligarchization.
+
 Layer 6 — Structural Resolution (Middle Path Charter)
 Correction Logic:
 Do not trust motives
@@ -158,6 +164,7 @@ Procedure-first design
 Symmetrical transparency
 Automatic review
 Full audit trails
+
 Layer 7 — Terminal Conclusion
 The Middle Path Charter is not a compromise, but:
 The only non-collapsing structural form remaining
