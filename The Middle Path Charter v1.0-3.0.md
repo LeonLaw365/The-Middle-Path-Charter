@@ -1,259 +1,246 @@
-Usage Declaration
+# The Middle Path Charter 3.0  
+## (Rule-Testing Edition | Found = Final)
 
-This document may be found, copied, modified, and tested by anyone
+> This document is a **structural charter**, not an ideology, manifesto, or political program.  
+> It does not mobilize, persuade, or moralize.  
+>  
+> Its sole purpose is to define **structural boundaries** within which a society can remain stable over long periods,  
+> without relying on virtue, belief, elites, or grand narratives.
 
-It retains no authorial authority
+---
 
-It forms no organization
+## I. Positioning
 
-It does not ask to be believed. It asks only to be repeatedly verified.
+The Middle Path Charter does **not** aim to:
+- Design an ideal society
+- Promote progress or justice
+- Replace culture, religion, or tradition
+- Predict human behavior
 
-The Middle Path Charter (Integrated Edition | v1.0–3.0)
+It exists only to answer one question:
 
-Rule-Stability Testing — Final Found Version
+> **What must never be allowed to expand unchecked,  
+> if a society wishes to avoid irreversible, man-made collapse?**
 
-This document is a structural rule-testing charter. It is not a political manifesto, moral appeal, or ideological program. It does not require belief, rely on goodwill, or presume human virtue.
+---
 
-Its sole purpose: To test whether the rules of a state, society, or governance system can operate long-term without collapsing due to grand narratives, power expansion, or technological abuse.
+## II. Core Principle
 
-I. The Point of Departure (from Version 1.0)
+> **Stability is not achieved by good intentions,  
+> but by preventing structural overreach.**
 
-Aim too high, and you fall to the middle; aim for the middle, and you fall below.
+Human motives fluctuate.  
+Narratives rise and fall.  
+Technology amplifies both.
 
-This Charter does not pursue optimal solutions. Instead, it deliberately defines an upper structural boundary that must not be crossed.
+Therefore, governance must focus not on *what should be achieved*,  
+but on *what must not be exceeded*.
 
-History repeatedly shows:
+---
 
-Disasters do not arise from being insufficiently idealistic
+## III. The Boundary of Grand Narratives
 
-They arise from grand narratives repeatedly breaching structural limits
+Any grand narrative — political, religious, national, technological, or moral:
 
-Thus, the Middle Path is not compromise. It is:
+- May exist  
+- May compete  
+- May inspire  
+- May fail  
 
-The only survivable form remaining after all unstable structures are removed.
+But it must **never** demand:
 
-II. Charter Positioning
+- Suspension of established procedures  
+- Expansion of discretionary authority  
+- Permanent exceptions  
+- Centralized interpretive power  
 
-It does not define “good government”
+The moment a narrative requires such conditions,  
+it has crossed from expression into structural threat.
 
-It does not promise progress, prosperity, or fairness
+---
 
-It does not design social blueprints
+## IV. Procedure over Judgment
 
-It answers only one question:
+In public affairs:
 
-Under what conditions does a system inevitably move toward irreversible disaster?
+> **The integrity of procedure outweighs the correctness of judgment.**
 
-And draws absolute red lines accordingly.
+A correct outcome achieved through violated procedures  
+is structurally illegitimate.
 
-III. Core Red Lines (Narrative Boundaries + Testability)
+Procedures exist not to guarantee wisdom,  
+but to limit damage when wisdom fails.
 
-Red Line 1 | Grand Narrative Must Not Breach Structure
+---
 
-Any political, national, religious, security, development, or progress narrative:
+## V. Symmetrical Transparency
 
-May exist
+At the operational level:
 
-May compete
+- Rules must be visible to those affected  
+- Rules must be understandable without insider knowledge  
+- Rules must be reproducible and auditable  
 
-May fail
+There shall be no internal logic that cannot be externally inspected.
 
-But must not:
+> What is invisible to the citizen  
+> must not be possessed by authority.
 
-Suspend established procedures
+---
 
-Expand discretionary authority
+## VI. Prohibition of Interpretive Power
 
-Create long-term exceptions
+No individual, group, profession, or institution may:
 
-Monopolize interpretive power
-
-Once breached, the system enters structural failure.
-
-Red Line 2 | Procedure Over Correctness
-
-In all public affairs:
-
-Procedural integrity > correctness of judgment > moral intention
-
-Any outcome that:
-
-Bypasses established procedure, or
-
-Rewrites procedure after the fact
-
-Is invalid even if the result appears correct.
-
-Red Line 3 | Freeze of Interpretive Power
-
-No individual, institution, or professional group may:
-
-Derive sustained advantage from interpreting rules.
+> **Derive sustained advantage from interpreting rules.**
 
 Rules may only be:
+- Executed  
+- Reproduced  
+- Audited  
 
-Executed
+They may not be redefined, contextualized, moralized, or personalized.
 
-Reproduced
+Interpretation that creates exceptions  
+is a hidden form of power expansion.
 
-Audited
+---
 
-Rules must not be:
+## VII. Technological Neutrality
 
-Flexibly redefined
+Technology may be used to:
 
-Contextually reinterpreted
+- Enforce procedures  
+- Record actions  
+- Verify compliance  
 
-Exception-handled
+Technology must not be used to:
 
-Red Line 4 | Symmetry Between Authority and Citizens
+- Predict behavior  
+- Score risk  
+- Rank citizens  
+- Shape social outcomes  
 
-Operational-level information must be symmetrical
+Technology is a stabilizer, not a governor.
 
-All rules must be:
+---
 
-Visible
+## VIII. Automatic Review
 
-Understandable
+Every administrative or authoritative outcome must:
 
-Reproducible
+- Provide a standardized appeal path  
+- Trigger review automatically upon appeal  
+- Operate independent of identity, status, or intent  
 
-What is invisible to citizens must not be possessed by authorities.
+Review exists to detect structural deviation,  
+not to correct moral wrongs.
 
-Red Line 5 | Technological Neutrality
+---
 
-Technology (including AI) may only:
+## IX. Moderate Governance
 
-Verify rules
+Provided no public risk is created:
 
-Fix procedures
+> **Actions not explicitly prohibited  
+> belong to the domain of social self-regulation.**
 
-Record actions
+Governance should not aim to eliminate all gray zones.
 
-Technology must not:
+However, implicit structural limits always apply:
 
-Predict behavior
+- No action may establish stable coercive revenue  
+- No organization may acquire non-procedural adjudicative authority  
+- Expansion beyond local scope must incur costs greater than potential gain  
 
-Score risk
+These limits are structural, not moral,  
+and need not be separately named or enforced.
 
-Classify populations
+---
 
-Guide society
+## X. Audit over Accountability
 
-Once technology participates in judging people, the system enters the risk zone of techno-authoritarianism.
+Governance systems are evaluated by:
 
-Red Line 6 | Automatic Review, Not Discretionary Appeal
+- Whether procedures were followed  
+- Whether opaque operations exist  
+- Whether exceptions accumulated  
 
-Any administrative or systemic outcome must:
+Not by:
+- Moral narratives  
+- Declared intentions  
+- Preferred outcomes  
 
-Provide a standardized review interface
+Audit replaces virtue as the stabilizing mechanism.
 
-Automatically enter review once triggered
+---
 
-Be independent of identity, rank, intent, or public opinion
+## XI. On Markets and Professional Power
 
-Review is a system obligation, not a granted favor.
+Markets validate competence through cost and payment,  
+but they do not limit power.
 
-Red Line 7 | Preservation of Gray Zones
+Professional success does not confer legitimacy to rule.
 
-Provided no clear public risk exists:
+Where expertise becomes:
+- Self-referential  
+- Non-transparent  
+- Interpretive  
 
-Any action not explicitly prohibited belongs to social self-regulation.
+It reproduces the same structural risks as political authority.
 
-Governance aims to:
+---
 
-Prevent disaster
+## XII. The Middle Path Resolution
 
-Not to:
+The Middle Path does not trust:
+- Motives  
+- Ideals  
+- Elites  
+- Expertise  
+- Technology  
 
-Eliminate uncertainty
+It limits all of them equally by:
 
-Erase all gray areas
+- Fixing procedures  
+- Symmetrizing transparency  
+- Freezing interpretive authority  
+- Enforcing automatic review  
+- Maintaining structural ceilings  
 
-IV. Rule-Testing Framework (Operational)
+---
 
-The following tests may be applied to any state or social system:
+## XIII. Final Statement
 
-Test 1 | Exception Test
+The Middle Path Charter is not a compromise.
 
-Do long-term exceptions exist?
+It is:
 
-Can exceptions be automatically terminated?
+> **The structural remainder  
+> after all unstable designs are removed.**
 
-No → Failure
+It does not promise progress.  
+It does not prevent failure.  
 
-Test 2 | Interpretive Power Test
+It only ensures that failure remains **recoverable**,  
+and that no narrative, system, or authority  
+is allowed to make collapse irreversible.
 
-Can any actor interpret rules?
+---
 
-Does interpretation generate material benefit?
+## Usage Note
 
-Yes → Failure
+This document is intended for:
 
-Test 3 | Procedural Integrity Test
+- Institutional analysis  
+- Rule testing  
+- Governance simulation  
+- Structural critique  
 
-Are procedures suspended during crises?
+It is not intended for:
+- Mobilization  
+- Ideological promotion  
+- Identity construction  
 
-Is “act first, legalize later” permitted?
-
-Yes → Failure
-
-Test 4 | Technology Abuse Test
-
-Does technology predict, profile, or rank individuals?
-
-Yes → Failure
-
-Test 5 | Review Accessibility Test
-
-Can ordinary individuals trigger review unconditionally?
-
-No → Failure
-
-Test 6 | Cost-Bearing Test
-
-Are the real costs of failure borne by decision-makers?
-
-No → Failure
-
-V. Professional Marketism (Bounded Integration)
-
-Acknowledgment
-
-Professional capability must be validated by long-term market payment
-
-Professions that cannot bear real costs lack practical legitimacy
-
-Risks
-
-Guild formation
-
-Information monopolies
-
-Professional–technological oligarchy
-
-Sole Correction Path
-
-Do not suppress professionals. Do not deify professionals. Freeze interpretive power.
-
-VI. Final Statement (The 1.0 Spirit, Fully Realized)
-
-This Charter does not construct utopias
-
-It does not promise the future
-
-It does not attempt to reshape humanity
-
-It guarantees only one thing:
-
-That a society will not be rapidly pushed into irreversible systemic disaster by human laziness, greed, fear, goodwill, or technological impulse.
-
-License and AI Assistance
-This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-© 2026 qiliang luo
-
-This work was developed with the assistance of artificial intelligence tools.
-AI systems were used for analysis, drafting support, and iterative refinement.
-All conceptual design, critical judgment, final decisions, and responsibility
-for the content remain with the author.
+> It does not ask to be believed.  
+> It asks only to be tested.
