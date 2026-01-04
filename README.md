@@ -1,4 +1,4 @@
-# The Middle Path Charter
+# The Middle Path Charter v1.0
 
 ## (Blue Sky, Bright Sun · Governance by the Mean)
 
