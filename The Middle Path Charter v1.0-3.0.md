@@ -244,3 +244,16 @@ It is not intended for:
 
 > It does not ask to be believed.  
 > It asks only to be tested.
+
+---
+
+## License and AI Assistance
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+© 2026 qiliang luo
+
+This work was developed with the assistance of artificial intelligence tools.
+AI systems were used for analysis, drafting support, and iterative refinement.
+All conceptual design, critical judgment, final decisions, and responsibility
+for the content remain with the
