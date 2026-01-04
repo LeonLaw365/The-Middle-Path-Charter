@@ -1,1 +1,367 @@
 
+---
+
+Usage Declaration
+
+This document may be found, copied, modified, and tested by anyone
+
+It retains no authorial authority
+
+It forms no organization
+
+
+> It does not ask to be believed. It asks only to be repeatedly verified.
+
+---
+
+The Middle Path Charter (Integrated Edition | v1.0–3.0)
+
+Rule-Stability Testing — Final Found Version
+
+> This document is a structural rule-testing charter. It is not a political manifesto, moral appeal, or ideological program. It does not require belief, rely on goodwill, or presume human virtue.
+
+Its sole purpose: To test whether the rules of a state, society, or governance system can operate long-term without collapsing due to grand narratives, power expansion, or technological abuse.
+
+
+
+
+---
+
+I. The Point of Departure (from Version 1.0)
+
+> Aim too high, and you fall to the middle; aim for the middle, and you fall below.
+
+
+
+This Charter does not pursue optimal solutions. Instead, it deliberately defines an upper structural boundary that must not be crossed.
+
+History repeatedly shows:
+
+Disasters do not arise from being insufficiently idealistic
+
+They arise from grand narratives repeatedly breaching structural limits
+
+
+Thus, the Middle Path is not compromise. It is:
+
+> The only survivable form remaining after all unstable structures are removed.
+
+
+
+
+---
+
+II. Charter Positioning
+
+It does not define “good government”
+
+It does not promise progress, prosperity, or fairness
+
+It does not design social blueprints
+
+
+It answers only one question:
+
+> Under what conditions does a system inevitably move toward irreversible disaster?
+
+
+
+And draws absolute red lines accordingly.
+
+
+---
+
+III. Core Red Lines (Narrative Boundaries + Testability)
+
+Red Line 1 | Grand Narrative Must Not Breach Structure
+
+Any political, national, religious, security, development, or progress narrative:
+
+May exist
+
+May compete
+
+May fail
+
+
+But must not:
+
+Suspend established procedures
+
+Expand discretionary authority
+
+Create long-term exceptions
+
+Monopolize interpretive power
+
+
+> Once breached, the system enters structural failure.
+
+
+
+
+---
+
+Red Line 2 | Procedure Over Correctness
+
+In all public affairs:
+
+> Procedural integrity > correctness of judgment > moral intention
+
+
+
+Any outcome that:
+
+Bypasses established procedure, or
+
+Rewrites procedure after the fact
+
+
+Is invalid even if the result appears correct.
+
+
+---
+
+Red Line 3 | Freeze of Interpretive Power
+
+No individual, institution, or professional group may:
+
+> Derive sustained advantage from interpreting rules.
+
+
+
+Rules may only be:
+
+Executed
+
+Reproduced
+
+Audited
+
+
+Rules must not be:
+
+Flexibly redefined
+
+Contextually reinterpreted
+
+Exception-handled
+
+
+
+---
+
+Red Line 4 | Symmetry Between Authority and Citizens
+
+Operational-level information must be symmetrical
+
+All rules must be:
+
+Visible
+
+Understandable
+
+Reproducible
+
+
+
+> What is invisible to citizens must not be possessed by authorities.
+
+
+
+
+---
+
+Red Line 5 | Technological Neutrality
+
+Technology (including AI) may only:
+
+Verify rules
+
+Fix procedures
+
+Record actions
+
+
+Technology must not:
+
+Predict behavior
+
+Score risk
+
+Classify populations
+
+Guide society
+
+
+> Once technology participates in judging people, the system enters the risk zone of techno-authoritarianism.
+
+
+
+
+---
+
+Red Line 6 | Automatic Review, Not Discretionary Appeal
+
+Any administrative or systemic outcome must:
+
+Provide a standardized review interface
+
+Automatically enter review once triggered
+
+Be independent of identity, rank, intent, or public opinion
+
+
+> Review is a system obligation, not a granted favor.
+
+
+
+
+---
+
+Red Line 7 | Preservation of Gray Zones
+
+Provided no clear public risk exists:
+
+> Any action not explicitly prohibited belongs to social self-regulation.
+
+
+
+Governance aims to:
+
+Prevent disaster
+
+
+Not to:
+
+Eliminate uncertainty
+
+Erase all gray areas
+
+
+
+---
+
+IV. Rule-Testing Framework (Operational)
+
+The following tests may be applied to any state or social system:
+
+Test 1 | Exception Test
+
+Do long-term exceptions exist?
+
+Can exceptions be automatically terminated?
+
+
+No → Failure
+
+
+---
+
+Test 2 | Interpretive Power Test
+
+Can any actor interpret rules?
+
+Does interpretation generate material benefit?
+
+
+Yes → Failure
+
+
+---
+
+Test 3 | Procedural Integrity Test
+
+Are procedures suspended during crises?
+
+Is “act first, legalize later” permitted?
+
+
+Yes → Failure
+
+
+---
+
+Test 4 | Technology Abuse Test
+
+Does technology predict, profile, or rank individuals?
+
+
+Yes → Failure
+
+
+---
+
+Test 5 | Review Accessibility Test
+
+Can ordinary individuals trigger review unconditionally?
+
+
+No → Failure
+
+
+---
+
+Test 6 | Cost-Bearing Test
+
+Are the real costs of failure borne by decision-makers?
+
+
+No → Failure
+
+
+---
+
+V. Professional Marketism (Bounded Integration)
+
+Acknowledgment
+
+Professional capability must be validated by long-term market payment
+
+Professions that cannot bear real costs lack practical legitimacy
+
+
+Risks
+
+Guild formation
+
+Information monopolies
+
+Professional–technological oligarchy
+
+
+Sole Correction Path
+
+> Do not suppress professionals. Do not deify professionals. Freeze interpretive power.
+
+
+
+
+---
+
+VI. Final Statement (The 1.0 Spirit, Fully Realized)
+
+This Charter does not construct utopias
+
+It does not promise the future
+
+It does not attempt to reshape humanity
+
+
+It guarantees only one thing:
+
+> That a society will not be rapidly pushed into irreversible systemic disaster by human laziness, greed, fear, goodwill, or technological impulse.
+
+---
+
+## License and AI Assistance
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+© 2026 qiliang luo
+
+This work was developed with the assistance of artificial intelligence tools.
+AI systems were used for analysis, drafting support, and iterative refinement.
+All conceptual design, critical judgment, final decisions, and responsibility
+for the content remain with the author.
+
